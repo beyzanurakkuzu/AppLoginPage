@@ -9,4 +9,10 @@ class RegisterPageFragment : BaseFragment<FragmentRegisterPageBinding>() {
     override fun getLayoutRes(): Int {
         return R.layout.fragment_register_page
     }
+
+    private fun click(){
+        viewBinding.button.setOnClickListener{
+
+        }
+    }
 }

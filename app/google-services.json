@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691246710929",
+    "project_id": "apploginpage-a2193",
+    "storage_bucket": "apploginpage-a2193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691246710929:android:13107829fe8ec87cc33f30",
+        "android_client_info": {
+          "package_name": "com.beyzaakkuzu.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691246710929-3pfqeoq25jamu90efa3ev5ric897v3mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkgD6C538fTziq9Llm-1IajZBEDq-8jsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691246710929-3pfqeoq25jamu90efa3ev5ric897v3mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
