@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">AppLoginPage</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_the_details">Enter The Details</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">EMail</string>
+    <string name="password">Password</string>
+    <string name="continuee">Continue</string>
+    <string name="login_to_continue">Login To Continue</string>
+    <string name="emaill">Email</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="name_deneme">Name:Deneme</string>
+    <string name="phone_deneme">Phone:Deneme</string>
+    <string name="email_deneme">Email:Deneme</string>
+    <string name="log_out">Log Out</string>
 </resources>
